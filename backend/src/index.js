@@ -2,6 +2,7 @@
 import express from 'express'
 import cors from 'cors'
 import job from "./lib/cron.js";
+import clerkWebhook from "./webhooks/clerk.webhook.js";
 import "dotenv/config";
 import fs from 'fs';
 import path from 'path';
