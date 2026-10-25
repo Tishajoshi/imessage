@@ -24,3 +24,19 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+
+
+# Dependencies
+node_modules/
+
+# Environment secrets
+.env
+.env.*
+
+# Allow an example template
+!.env.example
+
+# Build output
+dist/
+dist-ssr/
