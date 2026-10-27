@@ -2,7 +2,7 @@
 
 A full-stack real-time messaging application built with React, Node.js, Express, MongoDB, Clerk, and Socket.IO. Chat with users in real time with authentication, online presence, media sharing, and customizable themes.
 
-![Demo App](./frontend/public/screenshot-for-readme.png)
+🔗 [**Try iMessage Now**](https://imessage-9nvl.onrender.com)
 
 ---
 
